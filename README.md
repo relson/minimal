@@ -1,14 +1,12 @@
-# Minimal Theme
+# Minha página pessoal usando o "Minimal Theme"
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+Fiz a minha [Página pessoal](http://relson.info/) usando html estático estilizando com o o mesmo tema do [GitHub Pages](http://pages.github.com/).
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+O Realce do Sintace por [Pygments](http://pygments.org).
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+# Licença
 
-# License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+Licenciado sob a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 
 
